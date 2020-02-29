@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huangjiabin.cn/music/index.html</loc>
+    
+    <lastmod>2020-02-29T10:59:16.910Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://huangjiabin.cn/categories/index.html</loc>
     
     <lastmod>2020-02-29T06:01:09.483Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://huangjiabin.cn/2020/01/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E9%81%87%E5%9D%91/</loc>
     
     <lastmod>2020-02-24T05:59:27.170Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huangjiabin.cn/music/index.html</loc>
-    
-    <lastmod>2020-01-31T07:32:01.289Z</lastmod>
     
   </url>
   
